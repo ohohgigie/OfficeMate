@@ -1,0 +1,5 @@
+robotframework==3.2.1
+robotframework-requests==0.4.7
+robotframework-jsonlibrary==0.3.1
+pyyaml==5.1
+requests==2.18.4
